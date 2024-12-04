@@ -1,1 +1,3 @@
-1111
+timp 
+1praktika
+
